@@ -1,0 +1,2 @@
+# SlideShowMod
+Mod for mindustry
