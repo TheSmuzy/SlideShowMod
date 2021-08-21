@@ -1,0 +1,8 @@
+name: "slide-show-mod"
+displayName: "Slide show mod"
+author: "WindustryTeam"
+main: "slideshow.SlideShowMod"
+description: "This mod will make Mindustry Slide Show\n\nWith love, Windustry Team"
+version: 1.0
+minGameVersion: 117
+hidden: true
